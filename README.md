@@ -1,5 +1,5 @@
 # Quiz: Bored Ape and Cool Cat 
-### Frank Yung
+### Introduction
 
 This is a NodeJS application which contains 1 endpoint for returning intersection of the two owners sets of 2 NFT - Bored Ape Yacht Club (BAYC) and Cool Cats (COOL).
 
